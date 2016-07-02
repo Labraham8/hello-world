@@ -1,2 +1,3 @@
 # hello-world
-Initial Repository Ctreation
+Initial Repository Creation
+Introduction to the mystery of GitHub
